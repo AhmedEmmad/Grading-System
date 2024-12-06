@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Graduation Project\\Grading-System\\GradingSystem\\GradingSystem.Solution\\GradingSystem.Core\\GradingSystem.Core.csproj": {}
+    "E:\\Graduation Project\\Grading-System\\GradingSystem.Core\\GradingSystem.Core.csproj": {}
   },
   "projects": {
-    "E:\\Graduation Project\\Grading-System\\GradingSystem\\GradingSystem.Solution\\GradingSystem.Core\\GradingSystem.Core.csproj": {
+    "E:\\Graduation Project\\Grading-System\\GradingSystem.Core\\GradingSystem.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Graduation Project\\Grading-System\\GradingSystem\\GradingSystem.Solution\\GradingSystem.Core\\GradingSystem.Core.csproj",
+        "projectUniqueName": "E:\\Graduation Project\\Grading-System\\GradingSystem.Core\\GradingSystem.Core.csproj",
         "projectName": "GradingSystem.Core",
-        "projectPath": "E:\\Graduation Project\\Grading-System\\GradingSystem\\GradingSystem.Solution\\GradingSystem.Core\\GradingSystem.Core.csproj",
+        "projectPath": "E:\\Graduation Project\\Grading-System\\GradingSystem.Core\\GradingSystem.Core.csproj",
         "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-        "outputPath": "E:\\Graduation Project\\Grading-System\\GradingSystem\\GradingSystem.Solution\\GradingSystem.Core\\obj\\",
+        "outputPath": "E:\\Graduation Project\\Grading-System\\GradingSystem.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

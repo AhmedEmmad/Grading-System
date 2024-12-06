@@ -1,16 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Graduation Project\\GradingSystem\\GradingSystem.Solution\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{8ABE199E-289B-488E-8DD6-59D4A649E797}|GradingSystem.Repository\\GradingSystem.Repository.csproj|e:\\graduation project\\gradingsystem\\gradingsystem.solution\\gradingsystem.repository\\data\\dbcontexts\\gradingsystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ABE199E-289B-488E-8DD6-59D4A649E797}|GradingSystem.Repository\\GradingSystem.Repository.csproj|solutionrelative:gradingsystem.repository\\data\\dbcontexts\\gradingsystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32DD8AD0-D7B2-4D66-B3AB-FB913A2422D3}|GradingSystem.APIs\\GradingSystem.APIs.csproj|e:\\graduation project\\gradingsystem\\gradingsystem.solution\\gradingsystem.apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32DD8AD0-D7B2-4D66-B3AB-FB913A2422D3}|GradingSystem.APIs\\GradingSystem.APIs.csproj|solutionrelative:gradingsystem.apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "E:\\Graduation Project\\Grading-System\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,35 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GradingSystemDbContext.cs",
-              "DocumentMoniker": "E:\\Graduation Project\\GradingSystem\\GradingSystem.Solution\\GradingSystem.Repository\\Data\\DbContexts\\GradingSystemDbContext.cs",
-              "RelativeDocumentMoniker": "GradingSystem.Repository\\Data\\DbContexts\\GradingSystemDbContext.cs",
-              "ToolTip": "E:\\Graduation Project\\GradingSystem\\GradingSystem.Solution\\GradingSystem.Repository\\Data\\DbContexts\\GradingSystemDbContext.cs",
-              "RelativeToolTip": "GradingSystem.Repository\\Data\\DbContexts\\GradingSystemDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T22:54:02.865Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Graduation Project\\GradingSystem\\GradingSystem.Solution\\GradingSystem.APIs\\Program.cs",
-              "RelativeDocumentMoniker": "GradingSystem.APIs\\Program.cs",
-              "ToolTip": "E:\\Graduation Project\\GradingSystem\\GradingSystem.Solution\\GradingSystem.APIs\\Program.cs",
-              "RelativeToolTip": "GradingSystem.APIs\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T22:50:00.682Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Bookmark",
@@ -67,6 +34,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }

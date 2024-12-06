@@ -16,5 +16,14 @@ E:\Graduation Project\GradingSystem\GradingSystem.Solution\GradingSystem.Reposit
 E:\Graduation Project\GradingSystem\GradingSystem.Solution\GradingSystem.Repository\bin\Debug\net8.0\Debug\net8.0\GradingSystem.Repository.deps.json
 E:\Graduation Project\GradingSystem\GradingSystem.Solution\GradingSystem.Repository\bin\Debug\net8.0\Debug\net8.0\GradingSystem.Repository.dll
 E:\Graduation Project\GradingSystem\GradingSystem.Solution\GradingSystem.Repository\bin\Debug\net8.0\Debug\net8.0\GradingSystem.Repository.pdb
-E:\Graduation Project\GradingSystem\GradingSystem.Solution\GradingSystem.Repository\bin\Debug\net8.0\Debug\net8.0\GradingSystem.Core.dll
-E:\Graduation Project\GradingSystem\GradingSystem.Solution\GradingSystem.Repository\bin\Debug\net8.0\Debug\net8.0\GradingSystem.Core.pdb
+E:\Graduation Project\Grading-System\GradingSystem.Repository\obj\Debug\net8.0\GradingSystem.Repository.csproj.AssemblyReference.cache
+E:\Graduation Project\Grading-System\GradingSystem.Repository\obj\Debug\net8.0\GradingSystem.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Graduation Project\Grading-System\GradingSystem.Repository\obj\Debug\net8.0\GradingSystem.Repository.AssemblyInfoInputs.cache
+E:\Graduation Project\Grading-System\GradingSystem.Repository\obj\Debug\net8.0\GradingSystem.Repository.AssemblyInfo.cs
+E:\Graduation Project\Grading-System\GradingSystem.Repository\obj\Debug\net8.0\GradingSystem.Repository.csproj.CoreCompileInputs.cache
+E:\Graduation Project\Grading-System\GradingSystem.Repository\obj\Debug\net8.0\GradingSystem.Repository.sourcelink.json
+E:\Graduation Project\Grading-System\GradingSystem.Repository\obj\Debug\net8.0\GradingS.CAD69D37.Up2Date
+E:\Graduation Project\Grading-System\GradingSystem.Repository\obj\Debug\net8.0\GradingSystem.Repository.dll
+E:\Graduation Project\Grading-System\GradingSystem.Repository\obj\Debug\net8.0\refint\GradingSystem.Repository.dll
+E:\Graduation Project\Grading-System\GradingSystem.Repository\obj\Debug\net8.0\GradingSystem.Repository.pdb
+E:\Graduation Project\Grading-System\GradingSystem.Repository\obj\Debug\net8.0\ref\GradingSystem.Repository.dll

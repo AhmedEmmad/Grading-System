@@ -1,41 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Graduation Project\\GradingSystem\\GradingSystem.Solution\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Graduation Project\\GradingSystem\\GradingSystem.Solution\\GradingSystem.Repository\\Data\\Migrations\\20241204205619_InitialCreateEntitiesAndRelationships.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GradingSystem.Repository\\Data\\Migrations\\20241204205619_InitialCreateEntitiesAndRelationships.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ABE199E-289B-488E-8DD6-59D4A649E797}|GradingSystem.Repository\\GradingSystem.Repository.csproj|e:\\graduation project\\gradingsystem\\gradingsystem.solution\\gradingsystem.repository\\data\\configurationclasses\\studentconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ABE199E-289B-488E-8DD6-59D4A649E797}|GradingSystem.Repository\\GradingSystem.Repository.csproj|solutionrelative:gradingsystem.repository\\data\\configurationclasses\\studentconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Graduation Project\\GradingSystem\\GradingSystem.Solution\\GradingSystem.Repository\\Data\\Migrations\\20241204205508_InitialCreateEntitiesAndRelationships.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GradingSystem.Repository\\Data\\Migrations\\20241204205508_InitialCreateEntitiesAndRelationships.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ABE199E-289B-488E-8DD6-59D4A649E797}|GradingSystem.Repository\\GradingSystem.Repository.csproj|e:\\graduation project\\gradingsystem\\gradingsystem.solution\\gradingsystem.repository\\data\\configurationclasses\\committeeconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ABE199E-289B-488E-8DD6-59D4A649E797}|GradingSystem.Repository\\GradingSystem.Repository.csproj|solutionrelative:gradingsystem.repository\\data\\configurationclasses\\committeeconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ABE199E-289B-488E-8DD6-59D4A649E797}|GradingSystem.Repository\\GradingSystem.Repository.csproj|e:\\graduation project\\gradingsystem\\gradingsystem.solution\\gradingsystem.repository\\data\\configurationclasses\\teamconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ABE199E-289B-488E-8DD6-59D4A649E797}|GradingSystem.Repository\\GradingSystem.Repository.csproj|solutionrelative:gradingsystem.repository\\data\\configurationclasses\\teamconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ABE199E-289B-488E-8DD6-59D4A649E797}|GradingSystem.Repository\\GradingSystem.Repository.csproj|e:\\graduation project\\gradingsystem\\gradingsystem.solution\\gradingsystem.repository\\data\\configurationclasses\\studentteaminvitationconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ABE199E-289B-488E-8DD6-59D4A649E797}|GradingSystem.Repository\\GradingSystem.Repository.csproj|solutionrelative:gradingsystem.repository\\data\\configurationclasses\\studentteaminvitationconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "E:\\Graduation Project\\Grading-System\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 1124,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": -1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -57,82 +36,8 @@
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20241204205619_InitialCreateEntitiesAndRelationships.cs",
-              "DocumentMoniker": "E:\\Graduation Project\\GradingSystem\\GradingSystem.Solution\\GradingSystem.Repository\\Data\\Migrations\\20241204205619_InitialCreateEntitiesAndRelationships.cs",
-              "RelativeDocumentMoniker": "GradingSystem.Repository\\Data\\Migrations\\20241204205619_InitialCreateEntitiesAndRelationships.cs",
-              "ToolTip": "E:\\Graduation Project\\GradingSystem\\GradingSystem.Solution\\GradingSystem.Repository\\Data\\Migrations\\20241204205619_InitialCreateEntitiesAndRelationships.cs",
-              "RelativeToolTip": "GradingSystem.Repository\\Data\\Migrations\\20241204205619_InitialCreateEntitiesAndRelationships.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T20:56:19.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StudentConfigurations.cs",
-              "DocumentMoniker": "E:\\Graduation Project\\GradingSystem\\GradingSystem.Solution\\GradingSystem.Repository\\Data\\ConfigurationClasses\\StudentConfigurations.cs",
-              "RelativeDocumentMoniker": "GradingSystem.Repository\\Data\\ConfigurationClasses\\StudentConfigurations.cs",
-              "ToolTip": "E:\\Graduation Project\\GradingSystem\\GradingSystem.Solution\\GradingSystem.Repository\\Data\\ConfigurationClasses\\StudentConfigurations.cs",
-              "RelativeToolTip": "GradingSystem.Repository\\Data\\ConfigurationClasses\\StudentConfigurations.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB4AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T20:56:04.42Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20241204205508_InitialCreateEntitiesAndRelationships.cs",
-              "DocumentMoniker": "E:\\Graduation Project\\GradingSystem\\GradingSystem.Solution\\GradingSystem.Repository\\Data\\Migrations\\20241204205508_InitialCreateEntitiesAndRelationships.cs",
-              "RelativeDocumentMoniker": "GradingSystem.Repository\\Data\\Migrations\\20241204205508_InitialCreateEntitiesAndRelationships.cs",
-              "ToolTip": "E:\\Graduation Project\\GradingSystem\\GradingSystem.Solution\\GradingSystem.Repository\\Data\\Migrations\\20241204205508_InitialCreateEntitiesAndRelationships.cs",
-              "RelativeToolTip": "GradingSystem.Repository\\Data\\Migrations\\20241204205508_InitialCreateEntitiesAndRelationships.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T20:55:08.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CommitteeConfigurations.cs",
-              "DocumentMoniker": "E:\\Graduation Project\\GradingSystem\\GradingSystem.Solution\\GradingSystem.Repository\\Data\\ConfigurationClasses\\CommitteeConfigurations.cs",
-              "RelativeDocumentMoniker": "GradingSystem.Repository\\Data\\ConfigurationClasses\\CommitteeConfigurations.cs",
-              "ToolTip": "E:\\Graduation Project\\GradingSystem\\GradingSystem.Solution\\GradingSystem.Repository\\Data\\ConfigurationClasses\\CommitteeConfigurations.cs",
-              "RelativeToolTip": "GradingSystem.Repository\\Data\\ConfigurationClasses\\CommitteeConfigurations.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T20:54:36.157Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TeamConfigurations.cs",
-              "DocumentMoniker": "E:\\Graduation Project\\GradingSystem\\GradingSystem.Solution\\GradingSystem.Repository\\Data\\ConfigurationClasses\\TeamConfigurations.cs",
-              "RelativeDocumentMoniker": "GradingSystem.Repository\\Data\\ConfigurationClasses\\TeamConfigurations.cs",
-              "ToolTip": "E:\\Graduation Project\\GradingSystem\\GradingSystem.Solution\\GradingSystem.Repository\\Data\\ConfigurationClasses\\TeamConfigurations.cs",
-              "RelativeToolTip": "GradingSystem.Repository\\Data\\ConfigurationClasses\\TeamConfigurations.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T20:54:16.489Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StudentTeamInvitationConfigurations.cs",
-              "DocumentMoniker": "E:\\Graduation Project\\GradingSystem\\GradingSystem.Solution\\GradingSystem.Repository\\Data\\ConfigurationClasses\\StudentTeamInvitationConfigurations.cs",
-              "RelativeDocumentMoniker": "GradingSystem.Repository\\Data\\ConfigurationClasses\\StudentTeamInvitationConfigurations.cs",
-              "ToolTip": "E:\\Graduation Project\\GradingSystem\\GradingSystem.Solution\\GradingSystem.Repository\\Data\\ConfigurationClasses\\StudentTeamInvitationConfigurations.cs",
-              "RelativeToolTip": "GradingSystem.Repository\\Data\\ConfigurationClasses\\StudentTeamInvitationConfigurations.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T20:48:38.12Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }

@@ -9,3 +9,15 @@ E:\Graduation Project\GradingSystem\GradingSystem.Solution\GradingSystem.Service
 E:\Graduation Project\GradingSystem\GradingSystem.Solution\GradingSystem.Service\obj\Debug\net8.0\refint\GradingSystem.Service.dll
 E:\Graduation Project\GradingSystem\GradingSystem.Solution\GradingSystem.Service\obj\Debug\net8.0\GradingSystem.Service.pdb
 E:\Graduation Project\GradingSystem\GradingSystem.Solution\GradingSystem.Service\obj\Debug\net8.0\ref\GradingSystem.Service.dll
+E:\Graduation Project\Grading-System\GradingSystem.Service\bin\Debug\net8.0\GradingSystem.Service.deps.json
+E:\Graduation Project\Grading-System\GradingSystem.Service\bin\Debug\net8.0\GradingSystem.Service.dll
+E:\Graduation Project\Grading-System\GradingSystem.Service\bin\Debug\net8.0\GradingSystem.Service.pdb
+E:\Graduation Project\Grading-System\GradingSystem.Service\obj\Debug\net8.0\GradingSystem.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\Graduation Project\Grading-System\GradingSystem.Service\obj\Debug\net8.0\GradingSystem.Service.AssemblyInfoInputs.cache
+E:\Graduation Project\Grading-System\GradingSystem.Service\obj\Debug\net8.0\GradingSystem.Service.AssemblyInfo.cs
+E:\Graduation Project\Grading-System\GradingSystem.Service\obj\Debug\net8.0\GradingSystem.Service.csproj.CoreCompileInputs.cache
+E:\Graduation Project\Grading-System\GradingSystem.Service\obj\Debug\net8.0\GradingSystem.Service.sourcelink.json
+E:\Graduation Project\Grading-System\GradingSystem.Service\obj\Debug\net8.0\GradingSystem.Service.dll
+E:\Graduation Project\Grading-System\GradingSystem.Service\obj\Debug\net8.0\refint\GradingSystem.Service.dll
+E:\Graduation Project\Grading-System\GradingSystem.Service\obj\Debug\net8.0\GradingSystem.Service.pdb
+E:\Graduation Project\Grading-System\GradingSystem.Service\obj\Debug\net8.0\ref\GradingSystem.Service.dll

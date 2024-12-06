@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Graduation Project\\Grading-System\\GradingSystem\\GradingSystem.Solution\\GradingSystem.Service\\GradingSystem.Service.csproj",
+      "projectUniqueName": "E:\\Graduation Project\\Grading-System\\GradingSystem.Service\\GradingSystem.Service.csproj",
       "projectName": "GradingSystem.Service",
-      "projectPath": "E:\\Graduation Project\\Grading-System\\GradingSystem\\GradingSystem.Solution\\GradingSystem.Service\\GradingSystem.Service.csproj",
+      "projectPath": "E:\\Graduation Project\\Grading-System\\GradingSystem.Service\\GradingSystem.Service.csproj",
       "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-      "outputPath": "E:\\Graduation Project\\Grading-System\\GradingSystem\\GradingSystem.Solution\\GradingSystem.Service\\obj\\",
+      "outputPath": "E:\\Graduation Project\\Grading-System\\GradingSystem.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
